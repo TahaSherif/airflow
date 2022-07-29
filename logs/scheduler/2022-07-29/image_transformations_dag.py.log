@@ -7511,3 +7511,136 @@ airflow.exceptions.AirflowException: missing keyword argument 'python_callable'
 [2022-07-29 14:15:58,856] {logging_mixin.py:115} INFO - [2022-07-29 14:15:58,855] {dag.py:2420} INFO - Sync 1 DAGs
 [2022-07-29 14:15:58,889] {logging_mixin.py:115} INFO - [2022-07-29 14:15:58,889] {dag.py:2972} INFO - Setting next_dagrun for image_transformations to 2022-07-28T14:15:58.889524+00:00, run_after=2022-07-29T14:15:58.889524+00:00
 [2022-07-29 14:15:58,913] {processor.py:161} INFO - Processing /opt/airflow/dags/image_transformations_dag.py took 0.406 seconds
+[2022-07-29 14:16:29,018] {processor.py:153} INFO - Started process (PID=525) to work on /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:16:29,031] {processor.py:641} INFO - Processing file /opt/airflow/dags/image_transformations_dag.py for tasks to queue
+[2022-07-29 14:16:29,031] {logging_mixin.py:115} INFO - [2022-07-29 14:16:29,031] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:16:29,347] {processor.py:651} INFO - DAG(s) dict_keys(['image_transformations']) retrieved from /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:16:29,373] {logging_mixin.py:115} INFO - [2022-07-29 14:16:29,373] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-29 14:16:29,403] {logging_mixin.py:115} INFO - [2022-07-29 14:16:29,403] {dag.py:2972} INFO - Setting next_dagrun for image_transformations to 2022-07-28T14:16:29.403544+00:00, run_after=2022-07-29T14:16:29.403544+00:00
+[2022-07-29 14:16:29,423] {processor.py:161} INFO - Processing /opt/airflow/dags/image_transformations_dag.py took 0.408 seconds
+[2022-07-29 14:16:59,509] {processor.py:153} INFO - Started process (PID=554) to work on /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:16:59,514] {processor.py:641} INFO - Processing file /opt/airflow/dags/image_transformations_dag.py for tasks to queue
+[2022-07-29 14:16:59,514] {logging_mixin.py:115} INFO - [2022-07-29 14:16:59,514] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:16:59,817] {processor.py:651} INFO - DAG(s) dict_keys(['image_transformations']) retrieved from /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:16:59,840] {logging_mixin.py:115} INFO - [2022-07-29 14:16:59,840] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-29 14:16:59,866] {logging_mixin.py:115} INFO - [2022-07-29 14:16:59,866] {dag.py:2972} INFO - Setting next_dagrun for image_transformations to 2022-07-28T14:16:59.866602+00:00, run_after=2022-07-29T14:16:59.866602+00:00
+[2022-07-29 14:16:59,888] {processor.py:161} INFO - Processing /opt/airflow/dags/image_transformations_dag.py took 0.382 seconds
+[2022-07-29 14:17:29,984] {processor.py:153} INFO - Started process (PID=581) to work on /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:17:29,984] {processor.py:641} INFO - Processing file /opt/airflow/dags/image_transformations_dag.py for tasks to queue
+[2022-07-29 14:17:29,985] {logging_mixin.py:115} INFO - [2022-07-29 14:17:29,985] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:17:30,293] {processor.py:651} INFO - DAG(s) dict_keys(['image_transformations']) retrieved from /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:17:30,316] {logging_mixin.py:115} INFO - [2022-07-29 14:17:30,316] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-29 14:17:30,344] {logging_mixin.py:115} INFO - [2022-07-29 14:17:30,344] {dag.py:2972} INFO - Setting next_dagrun for image_transformations to 2022-07-28T14:17:30.343873+00:00, run_after=2022-07-29T14:17:30.343873+00:00
+[2022-07-29 14:17:30,369] {processor.py:161} INFO - Processing /opt/airflow/dags/image_transformations_dag.py took 0.388 seconds
+[2022-07-29 14:18:00,474] {processor.py:153} INFO - Started process (PID=600) to work on /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:18:00,475] {processor.py:641} INFO - Processing file /opt/airflow/dags/image_transformations_dag.py for tasks to queue
+[2022-07-29 14:18:00,475] {logging_mixin.py:115} INFO - [2022-07-29 14:18:00,475] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:18:00,800] {processor.py:651} INFO - DAG(s) dict_keys(['image_transformations']) retrieved from /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:18:00,827] {logging_mixin.py:115} INFO - [2022-07-29 14:18:00,827] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-29 14:18:00,859] {logging_mixin.py:115} INFO - [2022-07-29 14:18:00,859] {dag.py:2972} INFO - Setting next_dagrun for image_transformations to 2022-07-28T14:18:00.859234+00:00, run_after=2022-07-29T14:18:00.859234+00:00
+[2022-07-29 14:18:00,872] {processor.py:161} INFO - Processing /opt/airflow/dags/image_transformations_dag.py took 0.401 seconds
+[2022-07-29 14:18:30,987] {processor.py:153} INFO - Started process (PID=628) to work on /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:18:30,988] {processor.py:641} INFO - Processing file /opt/airflow/dags/image_transformations_dag.py for tasks to queue
+[2022-07-29 14:18:30,989] {logging_mixin.py:115} INFO - [2022-07-29 14:18:30,989] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:18:31,295] {processor.py:651} INFO - DAG(s) dict_keys(['image_transformations']) retrieved from /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:18:31,318] {logging_mixin.py:115} INFO - [2022-07-29 14:18:31,318] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-29 14:18:31,345] {logging_mixin.py:115} INFO - [2022-07-29 14:18:31,345] {dag.py:2972} INFO - Setting next_dagrun for image_transformations to 2022-07-28T14:18:31.345016+00:00, run_after=2022-07-29T14:18:31.345016+00:00
+[2022-07-29 14:18:31,368] {processor.py:161} INFO - Processing /opt/airflow/dags/image_transformations_dag.py took 0.387 seconds
+[2022-07-29 14:19:01,496] {processor.py:153} INFO - Started process (PID=646) to work on /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:19:01,497] {processor.py:641} INFO - Processing file /opt/airflow/dags/image_transformations_dag.py for tasks to queue
+[2022-07-29 14:19:01,497] {logging_mixin.py:115} INFO - [2022-07-29 14:19:01,497] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:19:01,885] {processor.py:651} INFO - DAG(s) dict_keys(['image_transformations']) retrieved from /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:19:01,921] {logging_mixin.py:115} INFO - [2022-07-29 14:19:01,921] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-29 14:19:01,957] {logging_mixin.py:115} INFO - [2022-07-29 14:19:01,956] {dag.py:2972} INFO - Setting next_dagrun for image_transformations to 2022-07-28T14:19:01.956752+00:00, run_after=2022-07-29T14:19:01.956752+00:00
+[2022-07-29 14:19:01,973] {processor.py:161} INFO - Processing /opt/airflow/dags/image_transformations_dag.py took 0.480 seconds
+[2022-07-29 14:19:32,071] {processor.py:153} INFO - Started process (PID=674) to work on /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:19:32,075] {processor.py:641} INFO - Processing file /opt/airflow/dags/image_transformations_dag.py for tasks to queue
+[2022-07-29 14:19:32,075] {logging_mixin.py:115} INFO - [2022-07-29 14:19:32,075] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:19:32,720] {processor.py:651} INFO - DAG(s) dict_keys(['image_transformations']) retrieved from /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:19:32,743] {logging_mixin.py:115} INFO - [2022-07-29 14:19:32,743] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-29 14:19:32,769] {logging_mixin.py:115} INFO - [2022-07-29 14:19:32,769] {dag.py:2972} INFO - Setting next_dagrun for image_transformations to 2022-07-28T14:19:32.768757+00:00, run_after=2022-07-29T14:19:32.768757+00:00
+[2022-07-29 14:19:32,784] {processor.py:161} INFO - Processing /opt/airflow/dags/image_transformations_dag.py took 0.717 seconds
+[2022-07-29 14:20:02,906] {processor.py:153} INFO - Started process (PID=702) to work on /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:20:02,907] {processor.py:641} INFO - Processing file /opt/airflow/dags/image_transformations_dag.py for tasks to queue
+[2022-07-29 14:20:02,908] {logging_mixin.py:115} INFO - [2022-07-29 14:20:02,908] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:20:03,301] {processor.py:651} INFO - DAG(s) dict_keys(['image_transformations']) retrieved from /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:20:03,338] {logging_mixin.py:115} INFO - [2022-07-29 14:20:03,337] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-29 14:20:03,365] {logging_mixin.py:115} INFO - [2022-07-29 14:20:03,365] {dag.py:2972} INFO - Setting next_dagrun for image_transformations to 2022-07-28T14:20:03.365341+00:00, run_after=2022-07-29T14:20:03.365341+00:00
+[2022-07-29 14:20:03,382] {processor.py:161} INFO - Processing /opt/airflow/dags/image_transformations_dag.py took 0.479 seconds
+[2022-07-29 14:20:33,517] {processor.py:153} INFO - Started process (PID=722) to work on /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:20:33,522] {processor.py:641} INFO - Processing file /opt/airflow/dags/image_transformations_dag.py for tasks to queue
+[2022-07-29 14:20:33,523] {logging_mixin.py:115} INFO - [2022-07-29 14:20:33,523] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:20:33,921] {processor.py:651} INFO - DAG(s) dict_keys(['image_transformations']) retrieved from /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:20:33,951] {logging_mixin.py:115} INFO - [2022-07-29 14:20:33,951] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-29 14:20:33,982] {logging_mixin.py:115} INFO - [2022-07-29 14:20:33,982] {dag.py:2972} INFO - Setting next_dagrun for image_transformations to 2022-07-28T14:20:33.982048+00:00, run_after=2022-07-29T14:20:33.982048+00:00
+[2022-07-29 14:20:33,996] {processor.py:161} INFO - Processing /opt/airflow/dags/image_transformations_dag.py took 0.501 seconds
+[2022-07-29 14:21:04,094] {processor.py:153} INFO - Started process (PID=750) to work on /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:21:04,095] {processor.py:641} INFO - Processing file /opt/airflow/dags/image_transformations_dag.py for tasks to queue
+[2022-07-29 14:21:04,095] {logging_mixin.py:115} INFO - [2022-07-29 14:21:04,095] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:21:04,419] {processor.py:651} INFO - DAG(s) dict_keys(['image_transformations']) retrieved from /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:21:04,441] {logging_mixin.py:115} INFO - [2022-07-29 14:21:04,441] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-29 14:21:04,467] {logging_mixin.py:115} INFO - [2022-07-29 14:21:04,467] {dag.py:2972} INFO - Setting next_dagrun for image_transformations to 2022-07-28T14:21:04.467106+00:00, run_after=2022-07-29T14:21:04.467106+00:00
+[2022-07-29 14:21:04,481] {processor.py:161} INFO - Processing /opt/airflow/dags/image_transformations_dag.py took 0.390 seconds
+[2022-07-29 14:21:34,612] {processor.py:153} INFO - Started process (PID=769) to work on /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:21:34,623] {processor.py:641} INFO - Processing file /opt/airflow/dags/image_transformations_dag.py for tasks to queue
+[2022-07-29 14:21:34,624] {logging_mixin.py:115} INFO - [2022-07-29 14:21:34,624] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:21:34,940] {processor.py:651} INFO - DAG(s) dict_keys(['image_transformations']) retrieved from /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:21:34,964] {logging_mixin.py:115} INFO - [2022-07-29 14:21:34,964] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-29 14:21:34,993] {logging_mixin.py:115} INFO - [2022-07-29 14:21:34,993] {dag.py:2972} INFO - Setting next_dagrun for image_transformations to 2022-07-28T14:21:34.992807+00:00, run_after=2022-07-29T14:21:34.992807+00:00
+[2022-07-29 14:21:35,017] {processor.py:161} INFO - Processing /opt/airflow/dags/image_transformations_dag.py took 0.408 seconds
+[2022-07-29 14:22:05,112] {processor.py:153} INFO - Started process (PID=797) to work on /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:22:05,117] {processor.py:641} INFO - Processing file /opt/airflow/dags/image_transformations_dag.py for tasks to queue
+[2022-07-29 14:22:05,117] {logging_mixin.py:115} INFO - [2022-07-29 14:22:05,117] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:22:05,456] {processor.py:651} INFO - DAG(s) dict_keys(['image_transformations']) retrieved from /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:22:05,477] {logging_mixin.py:115} INFO - [2022-07-29 14:22:05,477] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-29 14:22:05,504] {logging_mixin.py:115} INFO - [2022-07-29 14:22:05,504] {dag.py:2972} INFO - Setting next_dagrun for image_transformations to 2022-07-28T14:22:05.503936+00:00, run_after=2022-07-29T14:22:05.503936+00:00
+[2022-07-29 14:22:05,516] {processor.py:161} INFO - Processing /opt/airflow/dags/image_transformations_dag.py took 0.407 seconds
+[2022-07-29 14:22:35,620] {processor.py:153} INFO - Started process (PID=825) to work on /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:22:35,621] {processor.py:641} INFO - Processing file /opt/airflow/dags/image_transformations_dag.py for tasks to queue
+[2022-07-29 14:22:35,621] {logging_mixin.py:115} INFO - [2022-07-29 14:22:35,621] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:22:35,935] {processor.py:651} INFO - DAG(s) dict_keys(['image_transformations']) retrieved from /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:22:35,959] {logging_mixin.py:115} INFO - [2022-07-29 14:22:35,959] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-29 14:22:35,987] {logging_mixin.py:115} INFO - [2022-07-29 14:22:35,987] {dag.py:2972} INFO - Setting next_dagrun for image_transformations to 2022-07-28T14:22:35.987447+00:00, run_after=2022-07-29T14:22:35.987447+00:00
+[2022-07-29 14:22:36,011] {processor.py:161} INFO - Processing /opt/airflow/dags/image_transformations_dag.py took 0.394 seconds
+[2022-07-29 14:23:06,135] {processor.py:153} INFO - Started process (PID=845) to work on /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:23:06,135] {processor.py:641} INFO - Processing file /opt/airflow/dags/image_transformations_dag.py for tasks to queue
+[2022-07-29 14:23:06,136] {logging_mixin.py:115} INFO - [2022-07-29 14:23:06,136] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:23:06,472] {processor.py:651} INFO - DAG(s) dict_keys(['image_transformations']) retrieved from /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:23:06,497] {logging_mixin.py:115} INFO - [2022-07-29 14:23:06,497] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-29 14:23:06,527] {logging_mixin.py:115} INFO - [2022-07-29 14:23:06,527] {dag.py:2972} INFO - Setting next_dagrun for image_transformations to 2022-07-28T14:23:06.527368+00:00, run_after=2022-07-29T14:23:06.527368+00:00
+[2022-07-29 14:23:06,541] {processor.py:161} INFO - Processing /opt/airflow/dags/image_transformations_dag.py took 0.409 seconds
+[2022-07-29 14:23:36,688] {processor.py:153} INFO - Started process (PID=873) to work on /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:23:36,688] {processor.py:641} INFO - Processing file /opt/airflow/dags/image_transformations_dag.py for tasks to queue
+[2022-07-29 14:23:36,689] {logging_mixin.py:115} INFO - [2022-07-29 14:23:36,689] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:23:36,998] {processor.py:651} INFO - DAG(s) dict_keys(['image_transformations']) retrieved from /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:23:37,021] {logging_mixin.py:115} INFO - [2022-07-29 14:23:37,021] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-29 14:23:37,049] {logging_mixin.py:115} INFO - [2022-07-29 14:23:37,049] {dag.py:2972} INFO - Setting next_dagrun for image_transformations to 2022-07-28T14:23:37.049413+00:00, run_after=2022-07-29T14:23:37.049413+00:00
+[2022-07-29 14:23:37,060] {processor.py:161} INFO - Processing /opt/airflow/dags/image_transformations_dag.py took 0.375 seconds
+[2022-07-29 14:24:07,190] {processor.py:153} INFO - Started process (PID=891) to work on /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:24:07,191] {processor.py:641} INFO - Processing file /opt/airflow/dags/image_transformations_dag.py for tasks to queue
+[2022-07-29 14:24:07,191] {logging_mixin.py:115} INFO - [2022-07-29 14:24:07,191] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:24:07,498] {processor.py:651} INFO - DAG(s) dict_keys(['image_transformations']) retrieved from /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:24:07,521] {logging_mixin.py:115} INFO - [2022-07-29 14:24:07,520] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-29 14:24:07,547] {logging_mixin.py:115} INFO - [2022-07-29 14:24:07,547] {dag.py:2972} INFO - Setting next_dagrun for image_transformations to 2022-07-28T14:24:07.547559+00:00, run_after=2022-07-29T14:24:07.547559+00:00
+[2022-07-29 14:24:07,574] {processor.py:161} INFO - Processing /opt/airflow/dags/image_transformations_dag.py took 0.387 seconds
+[2022-07-29 14:24:37,690] {processor.py:153} INFO - Started process (PID=919) to work on /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:24:37,691] {processor.py:641} INFO - Processing file /opt/airflow/dags/image_transformations_dag.py for tasks to queue
+[2022-07-29 14:24:37,691] {logging_mixin.py:115} INFO - [2022-07-29 14:24:37,691] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:24:38,011] {processor.py:651} INFO - DAG(s) dict_keys(['image_transformations']) retrieved from /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:24:38,037] {logging_mixin.py:115} INFO - [2022-07-29 14:24:38,036] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-29 14:24:38,066] {logging_mixin.py:115} INFO - [2022-07-29 14:24:38,066] {dag.py:2972} INFO - Setting next_dagrun for image_transformations to 2022-07-28T14:24:38.065871+00:00, run_after=2022-07-29T14:24:38.065871+00:00
+[2022-07-29 14:24:38,090] {processor.py:161} INFO - Processing /opt/airflow/dags/image_transformations_dag.py took 0.404 seconds
+[2022-07-29 14:25:08,227] {processor.py:153} INFO - Started process (PID=948) to work on /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:25:08,228] {processor.py:641} INFO - Processing file /opt/airflow/dags/image_transformations_dag.py for tasks to queue
+[2022-07-29 14:25:08,228] {logging_mixin.py:115} INFO - [2022-07-29 14:25:08,228] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:25:08,539] {processor.py:651} INFO - DAG(s) dict_keys(['image_transformations']) retrieved from /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:25:08,561] {logging_mixin.py:115} INFO - [2022-07-29 14:25:08,561] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-29 14:25:08,588] {logging_mixin.py:115} INFO - [2022-07-29 14:25:08,588] {dag.py:2972} INFO - Setting next_dagrun for image_transformations to 2022-07-28T14:25:08.587936+00:00, run_after=2022-07-29T14:25:08.587936+00:00
+[2022-07-29 14:25:08,611] {processor.py:161} INFO - Processing /opt/airflow/dags/image_transformations_dag.py took 0.388 seconds
+[2022-07-29 14:25:38,730] {processor.py:153} INFO - Started process (PID=968) to work on /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:25:38,743] {processor.py:641} INFO - Processing file /opt/airflow/dags/image_transformations_dag.py for tasks to queue
+[2022-07-29 14:25:38,744] {logging_mixin.py:115} INFO - [2022-07-29 14:25:38,744] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:25:39,080] {processor.py:651} INFO - DAG(s) dict_keys(['image_transformations']) retrieved from /opt/airflow/dags/image_transformations_dag.py
+[2022-07-29 14:25:39,102] {logging_mixin.py:115} INFO - [2022-07-29 14:25:39,102] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-07-29 14:25:39,128] {logging_mixin.py:115} INFO - [2022-07-29 14:25:39,128] {dag.py:2972} INFO - Setting next_dagrun for image_transformations to 2022-07-28T14:25:39.128564+00:00, run_after=2022-07-29T14:25:39.128564+00:00
+[2022-07-29 14:25:39,158] {processor.py:161} INFO - Processing /opt/airflow/dags/image_transformations_dag.py took 0.431 seconds
