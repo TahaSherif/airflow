@@ -1,0 +1,5 @@
+pandas
+numpy
+apache-airflow
+beautifulsoup4
+opencv-python
